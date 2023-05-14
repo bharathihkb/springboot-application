@@ -26,4 +26,4 @@ image
 
 Docker build
 docker build -t tomcatdeploy:v1 .
-docker run --name tomcatdeploy-container -p 8080:8080 -d tomcatdeploy:v
+docker run --name tomcatdeploy-container -p 8080:8080 -d tomcatdeploy:v..
